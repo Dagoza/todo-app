@@ -1,0 +1,7 @@
+.add-todo{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    margin: auto;
+    padding: 40px;
+}
